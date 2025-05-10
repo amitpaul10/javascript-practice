@@ -99,5 +99,32 @@ let day = (haveChal / 4);
 console.log(day);
 console.log(day / 30);
 
+//todo Practice 5
+
+let price = 555;
+console.log(typeof price);
+
+let learning = true;
+console.log(typeof learning);
+
+let megacity = "Dhaka";
+console.log(typeof megacity);
+
+let tempareture = 102.5;
+console.log(typeof tempareture);
+
+let isHungry2 = true;
+console.log(typeof isHungry2);
+
+let isRich = true;
+console.log(typeof isRich);
+
+//todo Practice 6
+
+
+
+
+
+
 
 
